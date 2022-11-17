@@ -1,0 +1,6 @@
+.github
+.eslintignore
+.eslientrc
+.travis.yml
+test.js
+.editorconfig
