@@ -1,0 +1,25 @@
+{
+  "name": "@sillyangel/math",
+  "version": "1.0.0",
+  "description": "does simple math like adding and substracting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sillyangel/math.git"
+  },
+  "keywords": [
+    "math",
+    "add",
+    "sub",
+    "first"
+  ],
+  "author": "sillyangel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sillyangel/math/issues"
+  },
+  "homepage": "https://github.com/sillyangel/math#readme"
+}
